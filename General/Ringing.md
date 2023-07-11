@@ -1,0 +1,1 @@
+The practice of safely catching birds — usually in nets —, putting a small ring on to one of their legs with an ID and letting them go. 

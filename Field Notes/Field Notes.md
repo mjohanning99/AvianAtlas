@@ -1,0 +1,1 @@
+Field notes. in my particular case, are notes or longer texts that I wrote either during or directly after a [[General/Birding Trips|birding trip]]. 

@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "5868c0560e58b24b",
+    "type": "split",
+    "children": [
+      {
+        "id": "56a0fe3a2811b301",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4000402c6fe8f31a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Field Notes/2023/April/07.04.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63d799093a04a7d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "753147554a8911c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf44e893dada2c7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20a45e59d4bd8fff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22e643802e6b70e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27cc9fc00f1dcd5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0efaa5eed7be3fa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "793084477d25bbbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Field Notes/2023/April/07.04.2023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "128a9171a8df8cdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Field Notes/2023/April/07.04.2023.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "351a936aa0317215",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73a3b35922021be6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Field Notes/2023/April/07.04.2023.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "bf44e893dada2c7d",
+  "lastOpenFiles": [
+    "Locations/Meyer zu Heepen, Leithenhof.md",
+    "Field Notes/2023/April/17.04.2023.md",
+    "Field Notes/2023/April/18.04.2023.md",
+    "Stauteich III.md",
+    "Field Notes/2023/June/16.06.2023.md",
+    "Field Notes/2023/April/07.04.2023.md",
+    "Locations/Lutter-Stauteich III.md",
+    "Locations/Lutter-Stauteich II.md",
+    "Locations/Lutter-Stauteich I.md",
+    "Locations/Radrennbahn, Heeper Fichten.md",
+    "Field Notes/2023/June/12.06.2023.md",
+    "Field Notes/2023/April/16.04.2023.md",
+    "Locations/Meierhof.md",
+    "Field Notes/2023/July/06.07.2023.md",
+    "Field Notes/2023/April/02.04.2023.md",
+    "Personalities/Heinrich Gätke.md",
+    "Locations/Rieselfelder Windel.md",
+    "Locations/Luttergrünzug.md",
+    "Assets/Images/Meierhof.jpg",
+    "Assets/Images/PXL_20220418_181259473.jpg",
+    "Locations/Berlin Zoological Garden.md",
+    "Locations/Helgoland - Heligoland.md",
+    "Field Notes/2023/June/23.06.2023.md",
+    "Overview.md",
+    "Field Notes/2023/June/17.06.2023.md",
+    "Field Notes/2023/July",
+    "Field Notes/2023/June/18.06.2023.md",
+    "Field Notes/2023/June",
+    "Field Notes/2023/April/10.04.2023.md",
+    "Field Notes/2023/April/08.04.2023.md",
+    "Field Notes/2023/April",
+    "Assets/Images/Aerial_image_of_Heligoland.jpg",
+    "Personalities",
+    "Assets/Docs/Birding Report 26.06.2022.pdf",
+    "Assets/Docs/Birding Report 25.06.2022.pdf",
+    "Assets/Docs/Birding Report 09.07.2022.pdf",
+    "Assets/Docs/Birding Report 02.07.2022 .pdf",
+    "Field Notes/2022/July/Birding Report 02.07.2022 .pdf",
+    "Field Notes/2022/July/Birding Report 09.07.2022.pdf",
+    "Assets/Images/berlin_zoo_walk.JPG",
+    "Assets/Images/header.jpg",
+    "Assets/Berlin_Zoo_Walk.JPG",
+    "Assets/IMG_8067.JPG",
+    "Untitled.canvas"
+  ]
+}

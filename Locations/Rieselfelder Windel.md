@@ -1,0 +1,1 @@
+A large nature reserve in the south of Bielefeld. Popular birdwatching spot. Renaturation currently in process in one area. Three observation decks open, one permanently closed. Not the best of views, especially during summer due to all the foliage. Observation decks placed a long distance from birds. Only rarely visited by me. 

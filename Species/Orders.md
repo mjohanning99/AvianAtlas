@@ -1,0 +1,2 @@
+
+There are forty-one Orders of birds according to the IOC. The word "Order" tends to be written with a capital "O". Some other authorities list a different number of Orders. The Order of the [[Passeriformes]] is by far the largest of the Orders, containing roughly 6,500 species as of 2023-07-09.

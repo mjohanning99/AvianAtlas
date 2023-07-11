@@ -1,0 +1,1 @@
+A German [[ornithologist]] and artist (* 1814; † 1897) who moved to [[Locations/Helgoland - Heligoland|Helgoland]] and is very well-known there for his ornithological work. As was common practice amongst ornithologists back in the day, he hunted birds to put into his collection. During his time, the island still belonged to the British Empire.

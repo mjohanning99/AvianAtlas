@@ -1,0 +1,1 @@
+The Luttergrünzug is my personal [[General/Local Patch Birding|local patch]]. It consists of lots of smaller areas with the main area being around [[Locations/Lutter-Stauteich III|Lutter-Stauteich III]]. At present, I appear to be the only person who goes birds there regularly. I've seen approximately 60 different bird species (2023-07-11) in the area so far. 
