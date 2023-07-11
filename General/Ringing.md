@@ -1,1 +1,1 @@
-The practice of safely catching birds — usually in nets —, putting a small ring on to one of their legs with an ID and letting them go. 
+The practice of safely catching birds — usually in nets —, putting a small ring on to one of their legs with an ID and letting them go. When a ringed bird is found, it can be reported. This way, the bird's journey and age can be catalogued. GPS receivers commonly used nowadays as well, though regular rings are much cheaper and easier.  

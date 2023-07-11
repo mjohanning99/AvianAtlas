@@ -1,0 +1,1 @@
+An excursion to a popular (or less popular) spot for [[birdwatching]]. Frequently several days long. Generally in nature reserves. 

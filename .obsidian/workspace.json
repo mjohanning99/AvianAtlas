@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "56a0fe3a2811b301",
+        "id": "b36bdecfe642498c",
         "type": "tabs",
         "children": [
           {
-            "id": "4000402c6fe8f31a",
+            "id": "ed756533368e60f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Field Notes/2023/April/07.04.2023.md",
+                "file": "Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Field Notes/2023/April/07.04.2023.md",
+                "file": "Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Field Notes/2023/April/07.04.2023.md",
+                "file": "Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Field Notes/2023/April/07.04.2023.md"
+                "file": "Overview.md"
               }
             }
           }
@@ -147,38 +147,41 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "bf44e893dada2c7d",
+  "active": "ed756533368e60f6",
   "lastOpenFiles": [
+    "Websites/Ornitho.de.md",
+    "Locations/Rieselfelder Windel.md",
+    "General/Local Patch Birding.md",
+    "General/Migration.md",
+    "General/Ornithologist.md",
+    "General/Zoos.md",
+    "General/Ringing.md",
+    "General/Aviaries.md",
+    "General/Birding.md",
+    "General/Birds.md",
+    "General/Birding Trips.md",
+    "General/Photography.md",
+    "Personalities/Heinrich Gätke.md",
+    "Websites/eBird.org.md",
+    "Locations/Enger Bruch.md",
+    "Locations/Helgoland - Heligoland.md",
+    "Field Notes/2023/April/08.04.2023.md",
+    "Locations/Radrennbahn, Heeper Fichten.md",
+    "Overview.md",
+    "Untitled.canvas",
+    "2023-07-11.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Field Notes/2023/April/07.04.2023.md",
+    "Stauteich I.md",
     "Locations/Meyer zu Heepen, Leithenhof.md",
     "Field Notes/2023/April/17.04.2023.md",
     "Field Notes/2023/April/18.04.2023.md",
     "Stauteich III.md",
-    "Field Notes/2023/June/16.06.2023.md",
-    "Field Notes/2023/April/07.04.2023.md",
-    "Locations/Lutter-Stauteich III.md",
-    "Locations/Lutter-Stauteich II.md",
-    "Locations/Lutter-Stauteich I.md",
-    "Locations/Radrennbahn, Heeper Fichten.md",
-    "Field Notes/2023/June/12.06.2023.md",
-    "Field Notes/2023/April/16.04.2023.md",
-    "Locations/Meierhof.md",
-    "Field Notes/2023/July/06.07.2023.md",
-    "Field Notes/2023/April/02.04.2023.md",
-    "Personalities/Heinrich Gätke.md",
-    "Locations/Rieselfelder Windel.md",
-    "Locations/Luttergrünzug.md",
     "Assets/Images/Meierhof.jpg",
     "Assets/Images/PXL_20220418_181259473.jpg",
-    "Locations/Berlin Zoological Garden.md",
-    "Locations/Helgoland - Heligoland.md",
-    "Field Notes/2023/June/23.06.2023.md",
-    "Overview.md",
-    "Field Notes/2023/June/17.06.2023.md",
     "Field Notes/2023/July",
-    "Field Notes/2023/June/18.06.2023.md",
     "Field Notes/2023/June",
-    "Field Notes/2023/April/10.04.2023.md",
-    "Field Notes/2023/April/08.04.2023.md",
     "Field Notes/2023/April",
     "Assets/Images/Aerial_image_of_Heligoland.jpg",
     "Personalities",
@@ -191,7 +194,6 @@
     "Assets/Images/berlin_zoo_walk.JPG",
     "Assets/Images/header.jpg",
     "Assets/Berlin_Zoo_Walk.JPG",
-    "Assets/IMG_8067.JPG",
-    "Untitled.canvas"
+    "Assets/IMG_8067.JPG"
   ]
 }

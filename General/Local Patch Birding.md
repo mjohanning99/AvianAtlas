@@ -1,4 +1,4 @@
-Local Patch Birding is a term used to describe regularly [[Birding|birding]] at an area that is very close to one's home. There is no actual definition for it yet, but if you have to drive to get there, I would no longer call it Local Patch Birding.
+Local Patch Birding is a term used to describe regularly [[Birding|birding]] at an area that is very close to one's home. An example is the [[Locations/Luttergrünzug|Luttergrünzug]], my personal local patch. There is no actual definition for it yet, but if you have to drive to get there, I would no longer call it Local Patch Birding.
 
 Not only is this the most ecologically-friendly way of birding (as you can walk or cycle to your local patch), it is also, in my opinion, one of the most exciting for various reasons. 
 
