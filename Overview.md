@@ -6,4 +6,4 @@ It contains information about varies [[General/Birds|bird]] species, each accomp
 
 The main language used on this site is English, but some parts — especially the field notes — might be written in German. 
 
-The cover image is a Little Ringed Plover seen at the [[Rieselfelder Windel]] in Bielefeld. 
+The cover image is a [[Species/Charadriiformes/Little Ringed Plover - Charadrius dubius|Little Ringed Plover]] seen at the [[Rieselfelder Windel]] in Bielefeld. 
