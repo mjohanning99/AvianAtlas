@@ -10,7 +10,7 @@ The place I visit most frequently as its directly next to my apartment. Part of 
 |---------------------------|----------------------------|-------------|
 | [[Species/Passeriformes/Red-Backed Shrike - Lanius collurio\|Red-Backed Shrike]]         | Lanius collurio            | 26 Jun 2023 |
 | [[Species/Falconiformes/Common Kestrel - Falco tinnunculus\|Common Kestrel]]          | Falco tinnunculus          | 26 Jun 2023 |
-| Spotted Flycatcher        | Muscicapa striata          | 16 Jun 2023 |
+| [[Species/Passeriformes/Spotted Flycatcher - Muscicapa striata\|Spotted Flycatcher]]        | Muscicapa striata          | 16 Jun 2023 |
 | Long-tailed Tit           | Aegithalos caudatus        | 13 Jun 2023 |
 | Egyptian Goose            | Alopochen aegyptiaca       | 21 May 2023 |
 | Common Swift              | Apus apus                  | 13 May 2023 |

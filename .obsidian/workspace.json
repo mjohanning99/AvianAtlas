@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lutter-Stauteich III.md",
+                "file": "Species/Passeriformes/Spotted Flycatcher - Muscicapa striata.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "337e00603d53e0e2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lutter-Stauteich III.md",
+                "file": "Species/Passeriformes/Spotted Flycatcher - Muscicapa striata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lutter-Stauteich III.md",
+                "file": "Species/Passeriformes/Spotted Flycatcher - Muscicapa striata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lutter-Stauteich III.md"
+                "file": "Species/Passeriformes/Spotted Flycatcher - Muscicapa striata.md"
               }
             }
           }
@@ -158,16 +150,22 @@
   },
   "active": "3e0ac1afa0e7d467",
   "lastOpenFiles": [
-    "Species/Falconiformes/Common Kestrel - Falco tinnunculus.md",
+    "Assets/Images/grey-spotted-flycatcher.jpg",
+    "Assets/Images/20230616-IMG_3725-Enhanced-NR-3.jpg",
+    "Assets/Images/image.jpg.md",
+    "Species/Passeriformes/Spotted Flycatcher - Muscicapa striata.md",
     "Locations/Lutter-Stauteich III.md",
+    "Locations/Luttergrünzug.md",
+    "Species/Charadriiformes/Little Ringed Plover - Charadrius dubius.md",
+    "Assets/Templates/Bird - Bird Latin.md",
+    "Species/Passeriformes/Red-Backed Shrike - Lanius collurio.md",
+    "Assets/Templates",
+    "Species/Falconiformes/Common Kestrel - Falco tinnunculus.md",
     "Locations/Rieselfelder Windel.md",
     "General/Migration.md",
     "General/Non-Migratory Birds.md",
     "Assets/Images/common-kestrel.jpg",
     "Assets/Images/IMG_0894-Enhanced-NR-5.jpg",
-    "Species/Charadriiformes/Little Ringed Plover - Charadrius dubius.md",
-    "Species/Passeriformes/Red-Backed Shrike - Lanius collurio.md",
-    "Locations/Luttergrünzug.md",
     "General/Aviaries.md",
     "stauteich3.html",
     "stauteich3.md",
@@ -183,14 +181,10 @@
     "2023-07-11.md",
     "Overview.md",
     "Field Notes/2023/June/18.06.2023.md",
-    "Field Notes/2023/June/17.06.2023.md",
-    "Field Notes/2023/July/06.07.2023.md",
-    "Locations/Meyer zu Heepen, Leithenhof.md",
     "Assets/Images/red-backed-shrike.jpg",
     "Assets/Images/20230506-IMG_1940-Enhanced-NR-2.jpg",
     "Assets/Images/little-ringed-plover.jpg",
     "Assets/Images/Flussregenpfeifer-RieselfelderBI-1.jpg",
-    "Websites/Ornitho.de.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -204,8 +198,6 @@
     "Assets/Docs/Birding Report 26.06.2022.pdf",
     "Assets/Docs/Birding Report 25.06.2022.pdf",
     "Assets/Docs/Birding Report 09.07.2022.pdf",
-    "Assets/Docs/Birding Report 02.07.2022 .pdf",
-    "Field Notes/2022/July/Birding Report 02.07.2022 .pdf",
-    "Assets/Images/berlin_zoo_walk.JPG"
+    "Assets/Docs/Birding Report 02.07.2022 .pdf"
   ]
 }
