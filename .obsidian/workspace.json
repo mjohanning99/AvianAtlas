@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Field Notes/2023/July/19.07.2023.md",
+                "file": "Species/Orders.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Field Notes/2023/July/19.07.2023.md",
+                "file": "Species/Orders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Field Notes/2023/July/19.07.2023.md",
+                "file": "Species/Orders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Field Notes/2023/July/19.07.2023.md"
+                "file": "Species/Orders.md"
               }
             }
           }
@@ -150,12 +150,28 @@
   },
   "active": "3e0ac1afa0e7d467",
   "lastOpenFiles": [
-    "Field Notes/2023/June/23.06.2023.md",
+    "Species/Passeriformes/Spotted Flycatcher - Muscicapa striata.md",
+    "Species/Passeriformes/Red-Backed Shrike - Lanius collurio.md",
+    "Species/Falconiformes/Common Kestrel - Falco tinnunculus.md",
+    "Field Notes/2024/07.01.2024.md",
+    "Field Notes/2023/September/18.09.2023.md",
+    "Field Notes/2024",
+    "Field Notes/2023/September/12.09.2023.md",
+    "Field Notes/2023/September/03.09.2023.md",
+    "Field Notes/2023/August/30.08.2023.md",
+    "Field Notes/2023/September",
+    "Field Notes/2023/August/13.08.2023.md",
+    "Field Notes/2023/August/06.08.2023.md",
+    "Field Notes/2023/Untitled.md",
+    "Field Notes/2023/August",
+    "Field Notes/2023/June/25.06.2023.md",
+    "Field Notes/2023/June/16.06.2023.md",
+    "Field Notes/Field Notes.md",
     "Field Notes/2023/July/19.07.2023.md",
+    "Field Notes/2023/June/23.06.2023.md",
     "Field Notes/2023/June/18.06.2023.md",
     "Personalities/Heinrich Gätke.md",
     "Books/Federnlesen - Vom Glück, Vögel zu beobachten.md",
-    "Species/Passeriformes/Spotted Flycatcher - Muscicapa striata.md",
     "Assets/Images/grey-spotted-flycatcher.jpg",
     "Assets/Images/20230616-IMG_3725-Enhanced-NR-3.jpg",
     "Assets/Images/image.jpg.md",
@@ -163,25 +179,12 @@
     "Locations/Luttergrünzug.md",
     "Species/Charadriiformes/Little Ringed Plover - Charadrius dubius.md",
     "Assets/Templates/Bird - Bird Latin.md",
-    "Species/Passeriformes/Red-Backed Shrike - Lanius collurio.md",
     "Assets/Templates",
-    "Species/Falconiformes/Common Kestrel - Falco tinnunculus.md",
     "Locations/Rieselfelder Windel.md",
     "General/Migration.md",
-    "General/Non-Migratory Birds.md",
     "Assets/Images/common-kestrel.jpg",
     "Assets/Images/IMG_0894-Enhanced-NR-5.jpg",
-    "General/Aviaries.md",
     "stauteich3.html",
-    "stauteich3.md",
-    "Locations/Lutter-Stauteich II.md",
-    "Locations/Lutter-Stauteich I.md",
-    "Locations/Berlin Zoological Garden.md",
-    "General/Local Patch Birding.md",
-    "General/Birds.md",
-    "General/Birding Trips.md",
-    "General/Birding.md",
-    "Websites/eBird.org.md",
     "Assets/Images/red-backed-shrike.jpg",
     "Assets/Images/20230506-IMG_1940-Enhanced-NR-2.jpg",
     "Assets/Images/little-ringed-plover.jpg",
@@ -195,9 +198,6 @@
     "Field Notes/2023/June",
     "Field Notes/2023/April",
     "Personalities",
-    "Assets/Docs/Birding Report 26.06.2022.pdf",
-    "Assets/Docs/Birding Report 25.06.2022.pdf",
-    "Assets/Docs/Birding Report 09.07.2022.pdf",
-    "Assets/Docs/Birding Report 02.07.2022 .pdf"
+    "Assets/Docs/Birding Report 26.06.2022.pdf"
   ]
 }
